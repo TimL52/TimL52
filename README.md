@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on eventually creating first project
+- 🌱 I’m currently learning python and later about AI and NLP.
+- 💬 Ask me about Java and Python soon!
+- 📫 How to reach me: limtimothy438@gmail.com
+
 <!--
 **TimL52/TimL52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
