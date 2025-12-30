@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a student learning to be a software developer 
 
 - 🔭 I’m currently working on eventually creating first project
 - 🌱 I’m currently learning python and later about AI and NLP.
