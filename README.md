@@ -1,9 +1,8 @@
 ## Hi there 👋
 I'm a student learning to be a software developer 
 
-- 🔭 I’m currently working on eventually creating first project
+- 🔭 I’m currently working on data structure and algorithm projects.
 - 🌱 I’m currently learning python and later about AI and NLP.
-- 💬 Ask me about Java and Python soon!
 - 📫 How to reach me: limtimothy438@gmail.com
 
 <!--
